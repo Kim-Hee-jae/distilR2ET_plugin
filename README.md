@@ -51,6 +51,7 @@ https://github.com/Kim-Hee-jae/distilR2ET_plugin.git
 2. **Samples** 탭 클릭
 3. **Motion Retargeting Demo → Import**
 
+패키지 Demo Scene 가져온 상태
 ![패키지 Demo Scene 가져온 상태](./png/import_sample.png)
 
 ---
@@ -61,6 +62,7 @@ https://github.com/Kim-Hee-jae/distilR2ET_plugin.git
 Assets/Samples/distilR2ET/0.1.0/Motion Retargeting Demo/Scenes/DemoScene.unity
 ```
 
+DemoScene 로드된 전체 화면
 ![DemoScene 로드된 전체 화면](./png/demo_scenes_load.png)
 
 Demo Scene에는 다음이 미리 구성되어 있다.
@@ -118,7 +120,10 @@ Assets/Samples/distilR2ET/0.1.0/Motion Retargeting Demo/FBX/Character/Claire.fbx
 
 ## ▶️ Job 실행 중 상태
 
+실행 중 - 새로고침 전
 ![실행 중 - 새로고침 전](./png/plugin_window_running.png)
+
+실행 중 - 새로고침 후
 ![실행 중 - 새로고침 후](./png/plugin_window_running2.png)
 
 - 남은 시간은 **분:초** 형식으로 표시
@@ -131,7 +136,10 @@ Assets/Samples/distilR2ET/0.1.0/Motion Retargeting Demo/FBX/Character/Claire.fbx
 
 ## ✅ Job 실행 완료 및 결과 확인
 
+실행 완료
 ![실행 완료](./png/plugin_window_finish.png)
+
+다운로드 완료
 ![다운로드 완료](./png/plugin_window_downloaded.png)
 
 결과는 아래 경로에서 확인 가능:
