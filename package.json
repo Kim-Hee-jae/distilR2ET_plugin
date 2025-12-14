@@ -1,0 +1,28 @@
+{
+  "name": "com.heejae.distilr2et",
+  "version": "0.1.0",
+  "displayName": "Motion Retargeting Distillation Framework (distilR2ET)",
+  "description": "Unity editor plugin that sends motion data to a remote distilR2ET server and applies retargeted animations.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Kim Heejae",
+    "email": "idonthaveany37@gmail.com"
+  },
+  "keywords": [
+    "motion",
+    "retargeting",
+    "distillation",
+    "r2et"
+  ],
+  "samples": [
+    {
+      "displayName": "Motion Retargeting Demo",
+      "description": "Demo scene, sample FBX models and distilled models",
+      "path": "Samples~"
+    }
+  ],
+  "dependencies": {
+    "com.unity.sentis": "2.1.3",
+    "com.unity.editorcoroutines": "1.0.0"
+  }
+}
