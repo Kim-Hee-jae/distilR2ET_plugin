@@ -1,7 +1,7 @@
 {
   "name": "com.heejae.distilr2et",
   "version": "0.1.0",
-  "displayName": "Motion Retargeting Distillation Framework (distilR2ET)",
+  "displayName": "distilR2ET",
   "description": "Unity editor plugin that sends motion data to a remote distilR2ET server and applies retargeted animations.",
   "unity": "2021.3",
   "author": {
